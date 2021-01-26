@@ -10,7 +10,7 @@
 
 #### 思路流程图
 
-![](C:\Users\尚慧亮\Desktop\QQ截图20210126231729.png)
+![](https://github.com/Shu1L/waste_scan/blob/master/liuchengtu.png)
 
 
 
