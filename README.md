@@ -10,8 +10,7 @@
 
 #### 思路流程图
 
-![](C:\Users\尚慧亮\Desktop\QQ截图20210126231729.png)
-
+![](https://imgchr.com/i/svwQdP)
 
 
 #### 有待完善
