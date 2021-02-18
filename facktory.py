@@ -1,14 +1,9 @@
 # coding=utf-8
-'''
-factory.py
-'''
+
 import sys
 import traceback
 
 def factory(moduleName, **args):
-    '''
-    动态加载模块
-    '''
     try:
         __import__(moduleName)
     except Exception as e:
