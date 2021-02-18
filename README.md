@@ -8,7 +8,7 @@
 
 #### 思路流程图
 
-
+![https://github.com/Shu1L/waste_scan/blob/master/liuchengtu.png]
 
 
 
